@@ -1,0 +1,77 @@
+course_id,title,core_area,days,time,semesters
+601.615,Databases (formerly Database Systems),Software,MW,10,Spring
+601.617,Distributed Systems,Systems,MW,3,Fall
+601.618,Operating Systems,Systems,TTh,9,Spring
+601.620,Parallel Programming/Parallel Computing for Data Science,Systems,MW,1:30,Spring
+601.628,Compilers and Interpreters,Software,MW,4:30,Fall
+601.629,Functional Programming in Software Engineering,Software,TTh,12,Spring
+601.651,Introduction to Computational Immunogenomics,Applications,TTh,4:30,Spring
+601.653,Applications of Augmented Reality,Applications,MW,3,Fall
+601.654,[Medical] Augmented Reality,Applications,TTh,9,Fall
+601.655,Computer Integrated Surgery I,Applications,MW,1:30,Fall
+601.656,Computer Integrated Surgery II,Applications,TTh,1:30,Spring
+601.657,Computer Graphics,Applications,MW,12,Spring
+601.661,Computer Vision,Applications,MW,9,Spring
+601.662,Introduction to Spatial Computing,Applications,TTh,1:30,Fall
+601.663,Algorithms for Sensor-Based Robotics,Applications,MW,12,Fall
+601.664,Artificial Intelligence,Reasoning,TTh,1:30,Fall
+601.665,Natural Language Processing,Applications,TTh,1:30,Fall
+601.666,Information Retrieval and Web Agents,Applications,TTh,12,Fall
+601.667,Introduction to Human Language Technology,Applications,MW,12,Both
+601.669,"AI Safety, Alignment & Governance",Reasoning,TTh,12,Fall
+601.668,Machine Translation,Applications,TTh,4:30,Fall
+601.670,Artificial Agents,Reasoning,MW,1:30,Both
+601.671,NLP: Self-Supervised Models,Reasoning,TTh,1:30,Spring
+601.672,Natural Language Processing for Computational Social Science,Applications,MW,3,Fall
+601.673,Cognitive Artificial Intelligence,Reasoning,MW,9,Fall
+601.674,ML: Learning Theory,Theory,MW,1:30,Fall
+601.675,Machine Learning,Reasoning,TTh,9,Fall
+601.676,Machine Learning: Data to Models (in Complex Domains),Reasoning,TTh,10,Fall
+601.677,Causal Inference,Reasoning,MW,1:30,Fall
+601.679,Machine Learning: Reinforcement Learning,Theory,MW,12,Fall
+601.681,Machine Learning: Optimization,Reasoning,MW,3,Fall
+601.682,Machine Learning: Deep Learning,Reasoning,MW,3,Fall
+601.684,ML: Interpretable Machine Learning Design,Reasoning,MW,3,Spring
+601.686,ML: Artificial Intelligence System Design & Development,Software,TTh,10,Spring
+601.687,Maching Learning: Coping with Non-Stationary Environments and Errors,Reasoning,MW,4:30,Spring
+601.689,Human-in-the-Loop Machine Learning,Reasoning,TTh,9,Fall
+601.690,Intro to Human-Computer Interaction,Software,TTh,3,Spring
+601.691,Human-Robot Interaction,Applications,MW,3,Fall
+601.693,Accessible Computing,Software,TTh,4:30,Fall
+601.496,Computer Integrated Surgery II - TEAMS,Applications,TTh,3,Fall
+601.713,Future Networks,Systems,TTh,4:30,Spring
+601.714,Advanced Computer Networks,Systems,MW,12,Fall
+601.715,Advanced Networks: Internet Measurement,Systems,TTh,1:30,Spring
+601.716,Advanced Topics in Internet of Things,Systems,MW,11,Fall
+601.717,Advanced Distributed Systems,Systems,MW,4:30,Spring
+601.718,Advanced Operating Systems,Systems,TTh,10,Fall
+601.723,Advanced Topics in Data-Intensive Computing,Systems,TTh,9,Spring
+601.727,Machine Programming,Software,MW,12,Spring
+601.730,Pseudorandomness and Combinatorial Constructions,Theory,MW,1:30,Fall
+601.741,Advanced Topics in Secure and Censorship-Resistant Communications,Systems,TTh,4:30,Fall
+601.742,Advanced Topics in Cryptography,Theory,TTh,1:30,Fall
+601.743,Advanced Topics in Computer Security,Applications,MW,12,Fall
+601.745,Advanced Topics in Applied Cryptography,Theory,TTh,1:30,Spring
+601.749,Computational Genomics: Applied Comparative Genomics,Applications,TTh,4:30,Fall
+601.750,Frontiers of Sequencing Data Analysis,Applications,TTh,10,Fall
+601.751,Advanced Topics in Genomic Data Analysis,Applications,TTh,9,Spring
+601.760,FFT in Graphics & Vision,Applications,TTh,10,Spring
+601.763,Advanced Topics in Robot Perception,Applications,MW,12,Fall
+601.764,Advanced NLP: Multilingual Methods,Applications,MW,4:30,Spring
+601.765,Machine Learning: Linguistic & Sequence Modeling,Reasoning,MW,4:30,Fall
+601.767,Deep Learning for Automated Discourse,Applications,TTh,4:30,Fall
+601.769,Event Semantics in Theory and Practice,Applications,MW,9,Fall
+601.770,AI Ethics & Social Impact,Applications,MW,4:30,Spring
+601.771,Advances in Self-Supervised Statistical Models,Reasoning,TTh,12,Fall
+601.773,Machine Social Intelligence,Reasoning,MW,3,Both
+601.774,Theory of Replicable Machine Learning,Theory,MW,3,Spring
+601.775,Machine Learning: Foundations (formerly Statistical Machine Learning),Reasoning,MW,12,Fall
+601.778,Adv Topics in Causal Inference,Reasoning,MW,12,Fall
+601.779,Machine Learning: Advanced Topics,Reasoning,MW,3,Fall
+601.780,Unsupervised Learning: from Big Data to Low- Dimensional Representations (was Adv Topics in ML),Reasoning,MW,3,Spring
+601.783,Vision as Bayesian Inference,Applications,TTh,4:30,Fall
+601.787,Adv ML: Machine Learning for Trustworthy AI,Reasoning,MW,10,Fall
+601.788,Machine Learning for Healthcare,Applications,MW,3,Spring
+601.790,Advanced HCI: Research Methods,Applications,TTh,4:30,Spring
+601.792,Advanced Topics in Conversational User Interfaces,Software,MW,11,Fall
+601.794,"Privacy Technology, Design and Law",Applications,MW,1:30,Spring
